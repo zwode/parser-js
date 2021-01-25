@@ -12,6 +12,8 @@
   "description": "",
   "dependencies": {
     "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "esm": "^3.2.25",
     "node-html-parser": "^2.0.2"
   }
 }
